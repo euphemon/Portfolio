@@ -207,6 +207,12 @@ section {
     color: #d4a373;
 }
 
+.title1 {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
 #socials-containers {
     display: flex;
     justify-content: center;
